@@ -8,4 +8,6 @@
   <ul>Implementações no HTML</ul>
   <ul>Responsividade</ul>
   <ul>Variaveis do CSS Grid</ul>
+  <ul>Barra de menu com CSS Grid</ul>
+  <ul>Responsividade para 3 tamanho de telas: Smartphone, Tablet & Desktop.</ul>
 </li>
